@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React , AWS**
 
-💬 Ask me about anything [here](https://github.com/ayushwankhede/ayushwankhede/issues)**
+💬 Ask me about anything **[here](https://github.com/ayushwankhede/ayushwankhede/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -38,17 +38,11 @@
     <img src="https://skillicons.dev/icons?i=java,python,javascript,mongodb,c,mysql" /><br>
 </div>
 
-<br/>
-<hr/>
 
-<br/><br/>
-
-<hr/>
 
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
