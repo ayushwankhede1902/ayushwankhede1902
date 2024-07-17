@@ -26,6 +26,8 @@ I'm a passionate frontend developer with a keen interest in machine learning. Co
   </a>
 </div>
 
+<br/>
+
 
  
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
