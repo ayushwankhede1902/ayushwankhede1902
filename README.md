@@ -18,7 +18,7 @@ I'm a passionate frontend developer with a keen interest in machine learning. Co
 
  
 <div align="left"> 
-  <a href="wankhedeayush90@gmail.com">
+  <a href="mailto:wankhedeayush90@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ayush-wankhede/" target="_blank">
