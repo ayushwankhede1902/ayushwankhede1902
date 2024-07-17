@@ -1,26 +1,23 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ayushwankhede1902.ayushwankhede1902" />
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Wankhede!;" />
 </h1>
 
-<h3 align="center">A passionate Frontend developer</h3>
+<h2 align="left">About me🧠 </h2>
+
+I'm a passionate frontend developer with a keen interest in machine learning. Constantly exploring the intersection of technology and data to create innovative solutions, I am committed to learning and implementing the latest advancements in web development and AI
 
 <br/>
 
-<div align="center">
+  <h2 align="left"> Currently Learning📝 </h2>
  
- 🔭 I’m currently working on **Backend Development**
+ 🌱 I’m currently learning **Backend Development , AWS**
  
- 🌱 I’m currently learning **React , AWS**
+ 💬 Ask me about anything **[here](https://github.com/ayushwankhede/ayushwankhede/issues)**
 
-💬 Ask me about anything **[here](https://github.com/ayushwankhede/ayushwankhede/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
  
-<div align="center"> 
+<div align="left"> 
   <a href="wankhedeayush90@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -29,13 +26,13 @@
   </a>
 </div>
 
- <hr/>
+
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,mongodb,c,mysql" /><br>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=aws,react,vue,bootstrap,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,mongodb,c" /><br>
 </div>
 
 
