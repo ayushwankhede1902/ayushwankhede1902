@@ -38,7 +38,7 @@ I'm a passionate frontend developer with a keen interest in machine learning. Co
 </div>
 
 
-<h2 align="left">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats </h2>
 <br>
 <div align=left>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ayushwankhede1902&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
