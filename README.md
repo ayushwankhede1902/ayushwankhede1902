@@ -33,8 +33,9 @@ I'm a passionate frontend developer with a keen interest in machine learning. Co
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=aws,react,vue,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,mongodb,c" /><br>
+     <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,mongodb,aws,vscode,github,git" />
+   <br>
 </div>
 
 
