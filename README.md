@@ -33,13 +33,13 @@ I'm a passionate frontend developer with a keen interest in machine learning. Co
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="left">
-     <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
+     <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
     <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,mongodb,aws,vscode,github,git" />
    <br>
 </div>
 
 
-<h2 align="left">⚡ Stats </h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=left>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ayushwankhede1902&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
